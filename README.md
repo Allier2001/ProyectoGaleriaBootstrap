@@ -1,5 +1,3 @@
-# ProyectoGaleriaBootstrap
-Proyecto POP
 echo "# ProyectoGaleriaBootstrap" >> README.md
 git init
 git add README.md
